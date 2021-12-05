@@ -9,7 +9,7 @@
 .container {
   width: 100%;
   max-width: 1000px;
-  max-height: 666.6px;
+  max-height: 668.85px;
   margin: 0 auto;
 }
 
@@ -34,7 +34,6 @@
 .col {
   flex-basis: calc(100% / 45);
   max-width: calc(100% / 45);
-  border: 1px solid black;
   height: 22.22px;
 }
 
